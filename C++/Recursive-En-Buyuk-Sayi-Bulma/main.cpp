@@ -1,6 +1,6 @@
 #include <iostream>
 
-//Recursive olarak bir dizideki en buyuk elemanýný bulma
+//Recursive olarak bir dizideki en buyuk elemanini bulma
 
 using namespace std;
 int EnBuyuk(int dizi[],int uzunluk,int max=0){
